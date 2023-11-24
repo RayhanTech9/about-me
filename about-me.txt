@@ -17,6 +17,7 @@ I'm always looking for new opportunities to learn and grow, so feel free to conn
    - Problem-solving
    - Growth mindset
    - Open-source software
+   - Mern Stack Developer
 
 I'm excited to connect with other developers and learn from their experiences. I hope to one day become a successful software engineer and make a positive impact on the world.
 
@@ -34,4 +35,6 @@ I'm excited to connect with other developers and learn from their experiences. I
 🐦 Twitter: https://twitter.com/RAYHANUDDI23737
 💼 LinkedIn: https://www.linkedin.com/in/rayhan-uddinswe/
 
+
 Feel free to explore my repositories and connect with me. Happy coding! 🚀
+
