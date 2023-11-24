@@ -1,22 +1,22 @@
 # About Me
 
-<h1>Hello, I'm Rayhan Uddin </h1>
+### Hello, I'm Rayhan Uddin 
 
-Hi there! I'm Rayhan Uddin, a passionate computer science student with a strong interest in Python and artificial intelligence. I'm always eager to learn new technologies and solve challenging problems. I'm also a growth mindset enthusiast, always looking for ways to improve myself and my skills.
+<p>Hi there! I'm Rayhan Uddin, a passionate computer science student with a strong interest in Python and artificial intelligence. I'm always eager to learn new technologies and solve challenging problems. I'm also a growth mindset enthusiast, always looking for ways to improve myself and my skills.
 
 In my free time, I enjoy exploring new programming languages and frameworks, working on personal projects, and contributing to open-source projects. I'm also a big fan of machine learning and deep learning, and I'm always excited to see how these technologies are being used to solve real-world problems.
 
-I'm always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub or LinkedIn. I'm also happy to help others with their programming projects.
+I'm always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub or LinkedIn. I'm also happy to help others with their programming projects. </p>
 
-Here are some of my skills and interests:
+### Here are some of my skills and interests:
 
-    Python
-    Artificial intelligence
-    Machine learning
-    Deep learning
-    Problem-solving
-    Growth mindset
-    Open-source software
+   - Python
+   - Artificial intelligence
+   - Machine learning
+   - Deep learning
+   - Problem-solving
+   - Growth mindset
+   - Open-source software
 
 I'm excited to connect with other developers and learn from their experiences. I hope to one day become a successful software engineer and make a positive impact on the world.
 
