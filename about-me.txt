@@ -1,0 +1,49 @@
+# About Me
+
+<h1>Hello, I'm Rayhan Uddin </h1>
+
+Hi there! I'm Rayhan Uddin, a passionate computer science student with a strong interest in Python and artificial intelligence. I'm always eager to learn new technologies and solve challenging problems. I'm also a growth mindset enthusiast, always looking for ways to improve myself and my skills.
+
+In my free time, I enjoy exploring new programming languages and frameworks, working on personal projects, and contributing to open-source projects. I'm also a big fan of machine learning and deep learning, and I'm always excited to see how these technologies are being used to solve real-world problems.
+
+I'm always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub or LinkedIn. I'm also happy to help others with their programming projects.
+
+Here are some of my skills and interests:
+
+    Python
+    Artificial intelligence
+    Machine learning
+    Deep learning
+    Problem-solving
+    Growth mindset
+    Open-source software
+
+I'm excited to connect with other developers and learn from their experiences. I hope to one day become a successful software engineer and make a positive impact on the world.
+
+### 👨🏽‍💻 &nbsp; My Skills 
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+
+<br />
+<br />
+<br />
+
+
+
+## Contact
+
+📧 Email: [rayhanu509@gmail.com]
+🐦 Twitter: https://twitter.com/RAYHANUDDI23737
+💼 LinkedIn: https://www.linkedin.com/in/rayhan-uddinswe/
+
+Feel free to explore my repositories and connect with me. Happy coding! 🚀
