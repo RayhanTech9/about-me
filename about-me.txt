@@ -20,6 +20,7 @@ I'm always looking for new opportunities to learn and grow, so feel free to conn
    - Mern Stack Developer
    - Fullstack Developer
    - Software Enginner
+   - React Developer
 
 I'm excited to connect with other developers and learn from their experiences. I hope to one day become a successful software engineer and make a positive impact on the world.
 
