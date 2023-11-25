@@ -1,6 +1,6 @@
 # About Me
 
-### Hello, I'm Rayhan Uddin 
+### Hi, I'm Rayhan Uddin 
 
 <p>Hi there! I'm Rayhan Uddin, a passionate computer science student with a strong interest in Python and artificial intelligence. I'm always eager to learn new technologies and solve challenging problems. I'm also a growth mindset enthusiast, always looking for ways to improve myself and my skills.
 
